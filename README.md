@@ -104,3 +104,4 @@ Run all cells sequentially
 Outputs include predicted prices, Mean Absolute Error, and a graph comparing actual vs predicted values
 
 # output
+img width="746" height="674" alt="Image" src="https://github.com/user-attachments/assets/48f8b0c9-23bd-4595-a66f-3ec38051a668" />
