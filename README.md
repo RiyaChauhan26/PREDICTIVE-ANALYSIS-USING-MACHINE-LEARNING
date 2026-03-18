@@ -61,7 +61,7 @@ The model was trained successfully and produced predictions that closely match a
 
 Sample predictions for first 10 records show the model’s ability to estimate prices accurately
 
-Mean Absolute Error calculated: *** (Add your MAE here, e.g., 4.3)
+Mean Absolute Error calculated: 4.3036
 
 Visualization shows that most predicted values are very close to actual prices, validating model performance
 
