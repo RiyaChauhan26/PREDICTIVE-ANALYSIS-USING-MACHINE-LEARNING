@@ -105,3 +105,4 @@ Outputs include predicted prices, Mean Absolute Error, and a graph comparing act
 
 # output
 img width="746" height="674" alt="Image" src="https://github.com/user-attachments/assets/48f8b0c9-23bd-4595-a66f-3ec38051a668" />
+<img width="841" height="470" alt="Image" src="https://github.com/user-attachments/assets/dd2f3f52-2f35-4e0f-bbd3-41e8dbd2e256" />
