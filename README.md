@@ -83,17 +83,17 @@ Scikit-learn
 
 # Project Files
 
-predictive_analysis.ipynb → Colab notebook with full code
+Machine_learning_model.ipynb → Colab notebook with full code
 
 housing.csv → dataset used
 
-model_output.png → graph showing Actual vs Predicted Prices
+MACHINE LEARNING MODEL.png → graph showing Actual vs Predicted Prices
 
 README.md → project description
 
 # How to Run
 
-Open predictive_analysis.ipynb in Google Colab or Jupyter Notebook
+Open Machine_learning_model.ipynb in Google Colab or Jupyter Notebook
 
 Install required libraries:
 
